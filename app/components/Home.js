@@ -8,7 +8,7 @@ class Home extends React.Component {
 				<h1> Github Battle</h1>
 				<h4>What even is jQuery?</h4>
 				<Link to="/playerOne" >
-					<button class="btn btn-success">Get start!</button>
+					<button className="btn btn-success">Get start!</button>
 				</Link>
 			</div>
 		)
